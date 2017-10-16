@@ -1,0 +1,7 @@
+C:\Projects\TCPBridge\TCPBridge\obj\Debug\TCPBridge.csprojResolveAssemblyReference.cache
+C:\Projects\TCPBridge\TCPBridge\obj\Debug\TCPBridge.csproj.CoreCompileInputs.cache
+C:\Projects\TCPBridge\TCPBridge\bin\Debug\TCPBridge.exe.config
+C:\Projects\TCPBridge\TCPBridge\bin\Debug\TCPBridge.exe
+C:\Projects\TCPBridge\TCPBridge\bin\Debug\TCPBridge.pdb
+C:\Projects\TCPBridge\TCPBridge\obj\Debug\TCPBridge.exe
+C:\Projects\TCPBridge\TCPBridge\obj\Debug\TCPBridge.pdb

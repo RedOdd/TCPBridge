@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TCPBridge",
+    "\\TCPBridge\\bin",
+    "\\TCPBridge\\bin\\Debug",
+    "\\TCPBridge\\bin\\Release",
+    "\\TCPBridge\\obj",
+    "\\TCPBridge\\obj\\Debug",
+    "\\TCPBridge\\obj\\Release",
+    "\\TCPBridge\\Properties"
+  ],
+  "SelectedNode": "\\TCPBridge\\bin\\Debug\\log.txt",
+  "PreviewInSolutionExplorer": false
+}
